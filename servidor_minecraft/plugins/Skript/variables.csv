@@ -1,0 +1,13 @@
+# === Skript's variable storage ===
+# Please do not modify this file manually!
+#
+# version: 2.7.0-beta3
+
+arena1mobs, long, 0000000000000019
+arena2mobs, long, 000000000000000F
+arena2mobsg, long, 0000000000000007
+arena3mobs, long, 0000000000000032
+arena3mobsg, long, 0000000000000001
+points::mihiblu, long, 0000000000000022
+points::saoki_oq, long, 000000000000000A
+

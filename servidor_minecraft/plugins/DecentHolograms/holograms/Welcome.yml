@@ -1,0 +1,24 @@
+location: world:-26.498:69.500:-72.479
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '#ICON: spyglass'
+    height: 0.6
+  - content: '&eʙɪᴇɴᴠᴇɴɪᴅᴏ ᴀ &e&lꜱᴜʀᴠɪᴠᴀʟ'
+    height: 0.3
+  - content: '&7ᴘʟᴀʏ.ꜱᴇʀᴠᴇʀ.ɴᴇᴛ'
+    height: 0.3
+  - content: ''
+    height: 0.3
+  - content: '&f¡ʟᴀ ᴠᴇʀᴅᴀᴅᴇʀᴀ ᴀᴠᴇɴᴛᴜʀᴀ ᴄᴏᴍɪᴇɴᴢᴀ ᴀqᴜÍ!'
+    height: 0.3
+  - content: '&fᴜꜱᴀ ᴇʟ ᴍᴇɴÚ ᴅᴇʟ ꜱᴇʀᴠɪᴅᴏʀ ᴅᴇ ᴛᴜ ɪɴᴠᴇɴᴛᴀʀɪᴏ'
+    height: 0.3
+  - content: '&fᴘᴀʀᴀ ᴠᴇʀ ᴛᴏᴅᴀ ʟᴀ ɪɴꜰᴏʀᴍᴀᴄɪÓɴ ꜱᴏʙʀᴇ ɴᴜᴇꜱᴛʀᴏ ꜱᴇʀᴠɪᴅᴏʀ!'
+    height: 0.3
+  actions: {}
